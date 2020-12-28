@@ -1,8 +1,9 @@
-# Course Project
 
 
-Each folder contains code related to separate parts of the project, RSO to the part on Random
-Search Optimization, and TS to the part on Thompson Sampling. 
+This repo is a clone of a project I did for Applied Deep Learning. The report itself can be found here
+with a theoretical description of each approach as well as some preliminary results demonstrating
+their efficacy. Each sub-folder contains code related to separate parts of the project, RSO to the part on 
+Random Search Optimization, and TS to the part on Thompson Sampling. 
 
 ## RSO
 
